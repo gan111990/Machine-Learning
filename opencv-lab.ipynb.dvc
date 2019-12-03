@@ -1,0 +1,8 @@
+md5: 862f2a0a786c7e007bfafa57feefbb74
+wdir: .
+outs:
+- md5: 69a6f689c1a678ec8dfc84d0fb3156f8
+  path: opencv-lab.ipynb
+  cache: true
+  metric: false
+  persist: false
